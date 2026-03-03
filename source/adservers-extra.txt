@@ -1,5 +1,7 @@
 !
 ! --- Extra block ---
 !
-connect.facebook.net
 appsflyer.com
+appsflyersdk.com
+!
+! CNAME Popup
